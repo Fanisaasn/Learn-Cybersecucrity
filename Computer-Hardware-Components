@@ -1,0 +1,21 @@
+#What is Computer Hardware?
+Computer hardware refers to any physical parts or components that make up a computer system. Both desktop and laptop computers contain similar types of hardware, although they may vary in size and form due to design constraints.
+
+#Difference Between Hardware and Software:
+- Hardware: Physical components you can see and touch, such as the motherboard, CPU, RAM, etc.
+- Software: Programs installed on the computer that provide instructions to the hardware.
+Examples:
+Software: Windows 10, macOS, Microsoft Office
+Hardware: Motherboard, CPU, RAM, HDD/SSD, GPU, keyboard, mouse, monitor
+
+#Key Hardware Components:
+Motherboard: The main circuit board that connects and allows communication between all hardware components. Compatibility with other hardware (e.g., storage devices or display ports) should be considered when upgrading.
+- CPU (Central Processing Unit): Often called the "brain" of the computer, the CPU processes data and runs instructions. Its speed is measured in gigahertz (GHz).
+- RAM (Random Access Memory): Temporarily stores data used by active programs. It is volatile, meaning data is lost when the computer is turned off. RAM is critical for multitasking and running memory-intensive applications like design or video editing software.
+- Storage: SSD vs. HDD
+- HDD (Hard Disk Drive): Stores data on spinning magnetic platters.
+- SSD (Solid-State Drive): Uses NAND flash memory for faster speed, durability, and lower power consumption.
+  Two main SSD types: SATA and NVMe.
+- GPU (Graphics Processing Unit): Processes large amounts of graphic data. It improves visual performance and can handle computational tasks beyond graphics.
+- PSU (Power Supply Unit): Converts power from an external source to usable energy for internal components. A standard PSU ranges from 500W to 850W depending on the system's requirements.
+
