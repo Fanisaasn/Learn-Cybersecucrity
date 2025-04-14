@@ -1,0 +1,43 @@
+# Ethernet Overview
+
+## What is Ethernet
+Ethernet is a traditional wired networking technology used in LAN or WAN. Devices communicate using protocols and physical cables to transmit data. It is widely used due to its speed, security, and reliability.
+
+## Advantages of Ethernet
+Relatively low cost  
+Backward compatibility  
+Resistant to signal interference  
+High data transfer quality  
+High speed  
+Reliable connection  
+High data security with common firewall support  
+
+## Disadvantages of Ethernet
+Best suited for small, short-range networks  
+Limited mobility due to physical cables  
+Long cables may cause crosstalk  
+Not ideal for real-time or interactive applications  
+Speed can decrease with heavy traffic  
+No acknowledgment from receivers for data delivery  
+Difficult to troubleshoot specific cable or node issues  
+
+## Ethernet vs Wi-Fi
+Ethernet uses cables, offering better speed, stability, and lower latency  
+Wi-Fi provides flexibility without cables, but may have lower speed and security  
+
+## How Ethernet Works
+Operates at Layer 1 and Layer 2 of the OSI model.  
+Data is sent in frames containing MAC addresses, VLAN tags, QoS info, and error correction.  
+Originally used hubs, now mostly uses switches that direct data more efficiently.  
+
+## Ethernet Evolution
+802.3u introduced Fast Ethernet (100 Mbps)  
+802.3af defines Power over Ethernet (PoE)  
+802.11 a/b/g/n/ac/ax are wireless equivalents (Wi-Fi)  
+Gigabit Ethernet supports 1 Gbps to 400 Gbps  
+
+## Ethernet Cable Types
+Cat5 supports basic Ethernet and 100BASE-T  
+Cat5e supports Gigabit Ethernet  
+Cat6 supports 10 Gigabit Ethernet  
+Crossover cables connect two similar devices without a switch or router  
