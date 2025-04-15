@@ -1,0 +1,48 @@
+# How Bluetooth Works – Article Summary
+
+Source: HowStuffWorks – Article by Curt Franklin & Chris Pollette  
+Topic: Bluetooth Technology
+
+## Summary
+
+Bluetooth is a short-range wireless technology that allows devices to communicate without cables. It's commonly used in headphones, smartwatches, keyboards, car audio systems, and more.
+
+## Types of Connections
+
+Bluetooth allows direct communication between devices (unlike WiFi, which requires a router). There are two main types:
+
+- Bluetooth Classic (BR/EDR)  
+  Used for point-to-point communication with higher data rates.
+
+- Bluetooth Low Energy (LE)  
+  Consumes less power, supports mesh networks and broadcasting. Ideal for devices like fitness trackers.
+
+## How It Works
+
+Bluetooth Classic requires a pairing process, which allows devices to trust each other and securely exchange data. Bluetooth LE can broadcast messages without pairing, though pairing is still possible when needed.
+
+Connected Bluetooth devices form a small network called a piconet. These networks use frequency hopping to stay connected and avoid interference from other wireless technologies.
+
+## Bluetooth Range
+
+Bluetooth range varies depending on several factors:
+
+- Radio spectrum
+- Physical Layer (PHY)
+- Receiver sensitivity
+- Transmission power
+- Antenna gain
+- Path loss (e.g., distance, walls, or obstacles)
+
+Recent Bluetooth updates include forward error correction (FEC), which improves range without increasing power consumption.
+
+## Bluetooth Security
+
+Bluetooth includes several security features:
+
+- Pairing with encryption key exchange
+- Encrypted data transmission
+- Device address randomization (to prevent tracking)
+- Authentication using a pairing code (e.g., when connecting a phone to a car)
+
+Users can control device visibility by turning off discoverability or disabling Bluetooth when not in use.
