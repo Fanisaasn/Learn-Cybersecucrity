@@ -1,0 +1,24 @@
+# What is WiFi and How Does it Work? [27]
+
+## What is WiFi
+WiFi (802.11 networking) enables wireless internet using radio waves.
+
+How it works:
+- The device’s wireless adapter converts data into radio signals.
+- These signals are transmitted via antenna.
+- A wireless router receives the signals and forwards them to the internet via Ethernet.
+
+WiFi works on:
+- **2.4 GHz** – slower but longer range.
+- **5 GHz** – faster but shorter range.
+
+## 802.11 Standards
+| Standard   | Frequency | Speed         | Notes                         |
+|------------|-----------|---------------|-------------------------------|
+| 802.11b    | 2.4 GHz   | 11 Mbps       | Older, low speed              |
+| 802.11a    | 5 GHz     | 54 Mbps       | Uses OFDM                     |
+| 802.11g    | 2.4 GHz   | 54 Mbps       | Faster with OFDM              |
+| 802.11n    | 2.4/5 GHz | Up to 140 Mbps| Multiple antennas (MIMO)      |
+
+## Summary
+WiFi uses radio signals for wireless communication. Devices connect via wireless adapters, and routers link them to the internet. WiFi speed and range depend on frequency and the standard used.
