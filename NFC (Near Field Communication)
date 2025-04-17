@@ -1,0 +1,48 @@
+# NFC (Near Field Communication) – Summary
+
+Source: Square – *NFC Guide: All You Need to Know About Near Field Communication* [1]  
+Published: January 12, 2022
+
+## What is NFC
+NFC (Near Field Communication) is a short-range wireless communication technology that allows two devices to exchange data when they are very close together (typically within 2 inches). It is a subset of RFID (Radio-Frequency Identification).
+
+## Common Uses of NFC
+- Mobile payments: Apple Pay, Google Pay, Samsung Pay
+- Access cards for buildings and garages
+- Contactless debit/credit cards ("tap to pay")
+
+## NFC Security
+- Uses dynamic encryption: data changes with every transaction
+- Employs tokenization: original card details are replaced with random numbers (tokens)
+- Protected by biometric authentication like fingerprint or facial recognition
+- More secure than magnetic stripe cards
+
+## How NFC Works
+1. The user taps or hovers their device near an NFC-enabled reader.
+2. Communication occurs using the 13.56 MHz frequency.
+3. Encrypted information is exchanged between the devices.
+4. Payment is completed within seconds.
+
+## NFC vs. EMV
+| NFC                                | EMV (Chip Cards)                     |
+|------------------------------------|--------------------------------------|
+| Wireless communication             | Physical chip inserted               |
+| Used for mobile/contactless payments | Used for chip card payments         |
+| Faster transaction speed           | Slower due to authentication steps   |
+| Both are encrypted and secure      | Both are encrypted and secure        |
+
+## Why Accept NFC in Your Business
+- **More secure**: tokenization and biometric verification make fraud difficult
+- **Faster**: NFC transactions are quicker than both magstripe and EMV chip transactions
+- **More convenient**: customers can pay using smartphones without needing a physical wallet
+
+## How to Pay with NFC
+1. Add your card to a digital wallet app (e.g., Apple Pay, Google Pay).
+2. Hold the device close to the payment terminal.
+3. Authenticate using fingerprint or face recognition.
+4. Transaction is processed automatically.
+
+## How to Accept NFC Payments
+- Use an NFC-enabled payment reader (e.g., Square Reader).
+- Accepts both mobile wallets and contactless cards.
+- Ideal for modern, secure, and efficient in-person payments.
