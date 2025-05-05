@@ -1,0 +1,22 @@
+Infrared (IR) – Definition and Security Risks
+Definition
+Infrared (IR) is a wireless communication method used for short- to mid-range data transmission between devices. 
+It has a longer wavelength than visible light but shorter than radio waves. IR radiation is invisible to the human eye and can only be detected by specific sensors or cameras.
+
+Advantages
+Commonly used in IoT devices and remote controls
+Efficient for short-range device communication
+
+Limitations
+Limited range
+Requires direct line-of-sight between devices
+Low data transfer speed
+Susceptible to interference and poor penetration through objects
+Potential security vulnerabilities
+
+Examples of Misuse by Hackers
+Spoofing devices on the same Wi-Fi network using smart IR bulbs
+Intercepting and controlling IR connections to steal sensitive data such as credentials, messages, and emails
+Exploiting vulnerabilities in IR-based IoT devices to access user data
+Gaining access to IR-based security cameras to monitor activities and infiltrate company systems
+
