@@ -1,2 +1,1 @@
-# belajar-Cyberseuucrity
-Dokumentasi pembelajaran dasar cybersecurity, dari kosep, tools, sampai latihan
+I am an aspiring cybersecurity professional who is interested in understanding how systems and networks can be protected from security threats. I am currently learning cybersecurity fundamentals through hands-on practice and coursework, and I enjoy analyzing problems and learning how security issues are identified and addressed.
